@@ -6,7 +6,7 @@ public class PrimeiroPrograma {
 
 	public static void main(String[] args) {
 		
-		Gato gato = new Gato(); // Classe em outro arquivo
+		//Gato gato = new Gato(); // Classe em outro arquivo
 		Livros livros = new Livros(); // Classe no mesmo arquivo 
 		
 		//System.out.println(gato); // Mostra o objeto 
